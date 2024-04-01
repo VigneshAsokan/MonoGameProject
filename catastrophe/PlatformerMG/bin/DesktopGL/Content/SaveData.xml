@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SaveDataInfo>
+    <Level>10</Level>    
+    <highScores type="array">
+        <int>0</int>
+        <int>3</int>
+        <int>6</int>
+        <int>6</int>
+        <int>0</int>
+    </highScores>
+</SaveDataInfo>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/0/Layer0_0.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/0/Layer1_0.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/0/Layer2_0.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/0/Layer3_0.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/1/Layer0_1.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/1/Layer1_1.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/1/Layer2_1.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/1/Layer3_1.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/2/Layer0_2.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/2/Layer1_2.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/2/Layer2_2.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/2/Layer3_2.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/3/Layer0_3.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/3/Layer1_3.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/3/Layer2_3.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/3/Layer3_3.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/GameOver.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/Menu/Exit.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Backgrounds/Menu/Play.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Fonts/gameFont.spritefont</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Overlays/you_died.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Overlays/you_lose.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Overlays/you_win.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/award.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Enemy/Cat/Attack.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Enemy/Cat/Death.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Enemy/Cat/Idle.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Enemy/Cat/Walk.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Enemy/Dog/Attack.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Enemy/Dog/Death.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Enemy/Dog/Idle.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Enemy/Dog/Walk.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/fish.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/milk.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Player/Attack.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Player/Death.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Player/Hurt.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Player/Idle.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Player/Walk.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Sprites/Shield.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Tiles/BlockA0.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Tiles/BlockB0.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Tiles/Exit.png</File>
+    <File>D:/UNI/Term2/CompArch/Coursework/Platformer/catastrophe/PlatformerMG/Content/Tiles/Platform.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
